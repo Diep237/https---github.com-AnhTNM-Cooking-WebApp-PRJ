@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: calibri;
 }
 #container{
     width:100vw ;
@@ -41,6 +41,7 @@
     padding-left: 30px;
     outline: none  ;
     margin-left: 20px;
+    font-size : 20px;
 }
 .container_form-header-search-food-button > button {
     height: 40px;
